@@ -1,0 +1,8 @@
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\bin\Debug\Ex 2 pt 3.exe.config
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\bin\Debug\Ex 2 pt 3.exe
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\bin\Debug\Ex 2 pt 3.pdb
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\obj\Debug\Ex 2 pt 3.csproj.AssemblyReference.cache
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\obj\Debug\Ex 2 pt 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\obj\Debug\Ex 2 pt 3.csproj.CoreCompileInputs.cache
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\obj\Debug\Ex 2 pt 3.exe
+C:\Users\Mody\source\repos\Ex 2 pt 3\Ex 2 pt 3\obj\Debug\Ex 2 pt 3.pdb

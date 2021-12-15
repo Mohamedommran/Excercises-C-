@@ -1,0 +1,7 @@
+C:\Users\Mody\source\repos\Excercise 5\Excercise 5\obj\Debug\Excercise 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mody\source\repos\Excercise 5\Excercise 5\obj\Debug\Excercise 5.csproj.CoreCompileInputs.cache
+C:\Users\Mody\source\repos\Excercise 5\Excercise 5\bin\Debug\Excercise 5.exe.config
+C:\Users\Mody\source\repos\Excercise 5\Excercise 5\bin\Debug\Excercise 5.exe
+C:\Users\Mody\source\repos\Excercise 5\Excercise 5\bin\Debug\Excercise 5.pdb
+C:\Users\Mody\source\repos\Excercise 5\Excercise 5\obj\Debug\Excercise 5.exe
+C:\Users\Mody\source\repos\Excercise 5\Excercise 5\obj\Debug\Excercise 5.pdb

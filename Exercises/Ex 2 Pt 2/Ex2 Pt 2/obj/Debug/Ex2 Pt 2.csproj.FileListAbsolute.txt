@@ -1,0 +1,7 @@
+C:\Users\Mody\source\repos\Ex2 Pt 2\Ex2 Pt 2\bin\Debug\Ex2 Pt 2.exe.config
+C:\Users\Mody\source\repos\Ex2 Pt 2\Ex2 Pt 2\bin\Debug\Ex2 Pt 2.exe
+C:\Users\Mody\source\repos\Ex2 Pt 2\Ex2 Pt 2\bin\Debug\Ex2 Pt 2.pdb
+C:\Users\Mody\source\repos\Ex2 Pt 2\Ex2 Pt 2\obj\Debug\Ex2 Pt 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mody\source\repos\Ex2 Pt 2\Ex2 Pt 2\obj\Debug\Ex2 Pt 2.csproj.CoreCompileInputs.cache
+C:\Users\Mody\source\repos\Ex2 Pt 2\Ex2 Pt 2\obj\Debug\Ex2 Pt 2.exe
+C:\Users\Mody\source\repos\Ex2 Pt 2\Ex2 Pt 2\obj\Debug\Ex2 Pt 2.pdb
